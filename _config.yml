@@ -11,9 +11,9 @@ presskit_download_link                    : https://testflight.apple.com/join/Sk
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : LullabyTales                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : SolarAlign                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Try it for free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : LullabyTales is an app designed to help parents tell stories to their children in a fun and engaging way.
+app_description                           : Go solar with SolarAlign! Effortlessly configure and monitor your solar panel's energy production throughout the day. Harness the power of the sun like never before.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -21,7 +21,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Matteo Altobello                                
-your_link                                 : https://priceless-newton-8bfa4f.netlify.app/                   
+your_link                                 : matteoaltobello.netlify.com                   
 your_city                                 : Apple Developer Academy                                
 email_address                             : emil.baehr@gmail.com
 facebook_username                         :                                           
@@ -35,16 +35,16 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Infinite number of stories
-    description                           : With our app you can generate an infinite number of stories, and you can customize each story with your name or whatever you want
+  - title                                 : Guided Solar Panel Configuration
+    description                           : Effortlessly set up and optimize your solar panel's position for maximum efficiency. Our intuitive guided configuration feature ensures optimal solar energy production.
     fontawesome_icon_name                 : magic
     
-  - title                                 : Read old stories
-    description                           : There is a particulary story that you want to keep ? Go in the library section of the app and enjoy all the stories that you have created in the past
+  - title                                 : Real-time Energy Monitoring
+    description                           : Stay informed about your solar panel's performance with real-time energy monitoring. Track and analyze energy production to make informed decisions about your energy usage.
     fontawesome_icon_name                 : star
 
-  - title                                 : Share your stories with everyone
-    description                           : You can share your stories with a single tap, what you'll recive is a pdf of the story that you can send to everyone
+  - title                                 : Comprehensive Insights
+    description                           : Gain valuable insights into your solar energy production with detailed analytics. View energy production trends
     fontawesome_icon_name                 : link
 
   - title                                 : # New Feature Title
