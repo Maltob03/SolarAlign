@@ -8,7 +8,7 @@ include_in_header: true
 
 
 <br>
-<!-- 
+{::comment}
 ### `Latest`
 # **Version 2.0**
 This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
@@ -34,7 +34,7 @@ Abnormal and formidable against much the before well improper more spent far her
 
 ________
 <br>
--->
+{:/comment}
 
 ### `Initial Release`
 # **Version 1.0**
